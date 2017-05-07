@@ -3,7 +3,7 @@
 Voice command for LIFX.
 
 ## Description
-Lights is a simple Python program that uses voice recognition your LIFX bulbs. Alexa and Google Home have this functionality available out of the box, but why not code it yourself?
+Lights is a simple Python program that uses voice recognition to turn on your LIFX bulbs. Alexa and Google Home have this functionality available out of the box, but why not code it yourself?
 
 ## How it works
 Lights consists of only four files:
