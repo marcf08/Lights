@@ -10,7 +10,7 @@ Lights consists of only four files:
 
 * ```lights.py``` - Python script that runs the program.
 * ```helper.py``` - Reads the configuration token and user-defined command to toggle the lights.
-* ```request.py``` - Contains the functions that make the logic and API request functions.
+* ```request.py``` - Contains the logic and API request functions.
 * ```config.json``` - Contains the LIFX OAuth token and user-defined command to toggle the lights.
 
 The ```request.py``` file uses [Uberi's Speech Recognition module](https://github.com/Uberi/speech_recognition) for Python.
